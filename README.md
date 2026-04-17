@@ -27,7 +27,11 @@ BrightTV’s growth is currently driven by a loyal male, sports-focused audience
 4. Tools & Tech Stack
 
 Databricks: Data processing, transformation, and SQL analytics
+
 Excel: Pivot tables and validation
+
 Canva: Workflow and visual planning
+
 PowerPoint: Executive reporting
+
 AI Tools: Supporting visualization and dashboard insights
