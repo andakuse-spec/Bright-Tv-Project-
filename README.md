@@ -34,4 +34,4 @@ Canva: Workflow and visual planning
 
 PowerPoint: Executive reporting
 
-AI Tools: Supporting visualization and dashboard insights
+AI Tools: Supporting visualization and dashboard insights https://id-preview--c069f378-fbbc-4b3d-9e65-99e7af1b4b3d.lovable.app/dashboard
